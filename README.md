@@ -1,6 +1,9 @@
 # ghclone.fish
 simple fish function for how I like to clone repositories
 
+## Update
+I've been using `git grab` instead of ghclone. It fits the git ecosystem better. I might pick this up again, otherwise check out https://github.com/wezm/git-grab it works wonderfully.
+
 just type `ghclone [https://github.com/bdmorin/ghclone.fish.git]` and it will create a small directory structure and clone to it.
 
 ```
